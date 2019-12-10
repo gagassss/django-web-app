@@ -1,0 +1,28 @@
+<html>
+  <head><title>creating blog with django</title>
+    {% load static %}
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+  </head>
+  <body>
+      <body>
+          <div class="content container">
+
+              <div class="row">
+                  <div class="page-header">
+                      <h1><a href="/">Creating blog with django</a></h1>
+                  </div>
+                  <div class="col12">
+                  {% block content %}
+                  {% endblock %}
+                  </div>
+              </div>
+          </div>
+      </body>
+  </body>
+
+
+
+</html>
+
