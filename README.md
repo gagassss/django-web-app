@@ -8,7 +8,7 @@ This is repository to completed GCI task : Learn python & django by creating you
 !['List post'](/detail-post.JPG)
 
 
-![alt text](/administration.jpg)
+![alt text](/administration.JPG)
 
 # installing
 Clone repository
