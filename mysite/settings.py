@@ -25,7 +25,7 @@ SECRET_KEY = 'xw5@5%kh@k-_c&opyj-g14gk&o4^ev2=sz-lhfz=tt3*j-zrzb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'gagas.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'gagasss.pythonanywhere.com']
 
 
 # Application definition
