@@ -1,6 +1,6 @@
 # simple blog django
 This is repository to completed GCI task : Learn python & django by creating your own blog!
-
+demo : gagasss.pythonanywhere.com
 
 !['List post'](/list-post.JPG)
 
